@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Lu Hongcheng / Personal Page"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Lu Hongcheng"
+description              : &description "Spelling is fine!"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -48,30 +48,30 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
+  #bluesky          : "bsky.app" # Replace this with you Bluesky username
+  facebook         : chrislu2016
+  #flickr           : # Username
+  #foursquare       : # Username
+  #goodreads        : # Username
+  #google_plus      : # Username
+  #keybase          : # Username
+  instagram        : chris_lu20170522
+  #lastfm           : # Username
+  #3linkedin         : # Username
+  #mastodon         : # URL
+  #medium           : # URL
+  #pinterest        : # Username
+  #soundcloud       : # Username
+  #steam            : # Username
+  #telegram         : # URL
+  #tumblr           : # Username
+  #twitter          : # Username for X / Twitter
+  #vine             : # Username
+  #weibo            : # Username
+  #wikipedia        : # Username
+  #xing             : # Username
+  #youtube          : # Username
+  #zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
