@@ -24,7 +24,7 @@ author:
   avatar           : "Profile.png"
   name             : "Lu Hongcheng/陆泓承"
   pronouns         :  ##example: "He"  
-  bio              : "a fan of Twice"
+  bio              : "Chris Lu"
   location         : "Beijing"
   employer         : "Tsinghua University"
   uri              : # URL
@@ -76,7 +76,7 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: 'Chinese Journal Articles'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
