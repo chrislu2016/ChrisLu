@@ -21,20 +21,20 @@ Academic Journey
 Research Work
 ======
 
-#### Publish
+# Publish
   - Hang, M., & Lu, H. (2024). Exploration of the paths and mechanisms for data elements empowering the development of the publishing industry. *Chinese Editorials*, (07), 18-23.
   - Lu, H., & Zheng, S. (2024). Causes and countermeasures of public opinion risks faced by multinational digital platforms in information geopolitics: A case study of multiple international sanctions against TikTok. *Modern Communication*, (07), 59-66.
   - Lu, H. (2024). Research on the institutional logic of short video micro-dramas industry. *Contemporary Television*, (02), 60-66.
   - Zheng, S., Lu, H., & Yin, W. (2022). An exploration of the driving forces behind the shortening trend of window periods from an institutional logic perspective. *Film Art*, (03), 155-160.
   - Zheng, S., Xi, Z., & Lu, H. (2022). Branding strategies of cultural variety shows: A case study of *The Reader*. *Television Research*, (05), 80-82.
   
-#### Conference Presentations
+# Conference Presentations
 
 - Huang, P., & Lu, H. (2024). Exploring the gender attraction perceptions of the fourth queer heterosexual group in China. Oral presentation at the *74th ICA*, LGBTQ+ Panel, Gold Coast, Australia.
 - Lu, H. (2024). Can National Financial Literacy Better Explain the Differences in Financial Media Systems Among Countries? Paper presented at the *2024 Annual Conference of the China Association for the History of Journalism and Mass Communication*, Hangzhou, China.
 - Lu, H. (2024). The Role of News on the Confidence-Boosting Effect of Economic Policy Announcements: Empirical Quasi-Natural Experiment Evidence from China. Submitted to the *75th ICA*.
   
-#### Work in Progress
+# Work in Progress
 
   - Lu, H. (n.d.). Empowerment or Exploitation: A Network Ethnography of a Community of Tuwei Culture Content Creators in Douyin. Under second revision. *Contemporary Youth Research*.
   - Lu, H. (n.d.). Can AI Match the Expertise of Financial Journalists in Writing News Commentary? An Online Experimental Analysis Based on the Heuristic-Systematic Model. Under third revision. *Chinese Journal of Journalism & Communication*.
