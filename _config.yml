@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Lu Hongcheng"
+title                    : "Chris"
 title_separator          : "-"
 name                     : &name "Lu Hongcheng"
 description              : &description "Spelling is fine!"
@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Chris.png"
+  avatar           : "Profile.png"
   name             : "Lu Hongcheng"
   pronouns         :  ##example: "He"  
   bio              : "School of Journalism and Communication"
