@@ -22,15 +22,15 @@ Research Work
 ======
 
 ## Published
-  - **CSSCI**:Hang, M., & Lu, H. (2024). Exploration of the paths and mechanisms for data elements empowering the development of the publishing industry. *Chinese Editorials*, (07), 18-23.
+  - **CSSCI**: Hang, M., & Lu, H. (2024). Exploration of the paths and mechanisms for data elements empowering the development of the publishing industry. *Chinese Editorials*, (07), 18-23.
     杭敏 & 陆泓承. (2024). 数据要素赋能出版业发展的路径与机制探讨. 中国编辑, 7, 18–23.
-  - **CSSCI TOP**:Lu, H., & Zheng, S. (2024). Causes and countermeasures of public opinion risks faced by multinational digital platforms in information geopolitics: A case study of multiple international sanctions against TikTok. *Modern Communication*, (07), 59-66.
+  - **CSSCI TOP**: Lu, H., & Zheng, S. (2024). Causes and countermeasures of public opinion risks faced by multinational digital platforms in information geopolitics: A case study of multiple international sanctions against TikTok. *Modern Communication*, (07), 59-66.
     陆泓承 & 郑苏晖. (2024). 信息地缘政治博弈中跨国数字平台舆论风险的成因与应对——以TikTok遭遇的多起国际制裁事件为例. 现代传播（中国传媒大学学报）, 46(7), 59–66. 
-  - **CSSCI+**:Lu, H. (2024). Research on the institutional logic of short video micro-dramas industry. *Contemporary Television*, (02), 60-66.
+  - **CSSCI+**: Lu, H. (2024). Research on the institutional logic of short video micro-dramas industry. *Contemporary Television*, (02), 60-66.
   陆泓承. (2024). 制度逻辑视角下短视频微短剧行业的发展逻辑研究. 当代电视, 2, 60–66.
-  - **CSSCI TOP**:Zheng, S., Lu, H., & Yin, W. (2022). An exploration of the driving forces behind the shortening trend of window periods from an institutional logic perspective. *Film Art*, (03), 155-160.
+  - **CSSCI TOP**: Zheng, S., Lu, H., & Yin, W. (2022). An exploration of the driving forces behind the shortening trend of window periods from an institutional logic perspective. *Film Art*, (03), 155-160.
     郑苏晖, 陆泓承, & 殷雯馨. (2022). 制度逻辑视角下院线窗口期缩短趋势的动因探究. 电影艺术, 3, 155–160.
-  - **CSSCI**:Zheng, S., Xi, Z., & Lu, H. (2022). Branding strategies of cultural variety shows: A case study of *The Reader*. *Television Research*, (05), 80-82.
+  - **CSSCI**: Zheng, S., Xi, Z., & Lu, H. (2022). Branding strategies of cultural variety shows: A case study of *The Reader*. *Television Research*, (05), 80-82.
     郑苏晖, 郗展弘, & 陆泓承. (2022). 文化类综艺节目的品牌化经营策略——以《朗读者》为例. 电视研究, 5, 80–82.
 
   
@@ -42,8 +42,8 @@ Research Work
 ## Work in Progress
 
   - Lu, H. (n.d.). Empowerment or Exploitation: A Network Ethnography of a Community of Tuwei Culture Content Creators in Douyin. Under second revision.
-  - Lu, H. (n.d.). Can AI Match the Expertise of Financial Journalists in Writing News Commentary? An Online Experimental Analysis Based on the Heuristic-Systematic Model. Under third revision..
-  - - Lu, H. (2024). The Role of News on the Confidence-Boosting Effect of Economic Policy Announcements: Empirical Quasi-Natural Experiment Evidence from China. Submitted to the *75th ICA*.
+  - Lu, H. (n.d.). Can AI Match the Expertise of Financial Journalists in Writing News Commentary? An Online Experimental Analysis Based on the Heuristic-Systematic Model. Under third revision.
+  - Lu, H. (n.d). The Role of News on the Confidence-Boosting Effect of Economic Policy Announcements: Empirical Quasi-Natural Experiment Evidence from China. Submitted to the *75th ICA*.
   
 
 Research Projects
@@ -68,8 +68,7 @@ Working Experience
 Honors
 ======
 
-- **Ph.D.**: Ongoing research and academic achievements
-- **Master's**: National Scholarship (2022), Second-Class Scholarship (2021), University-Level Merit Student (2021/2023), Outstanding Graduate (2023)
+- **Master's**: National Scholarship (2022), Second-Class Scholarship (2021), Merit Student (2021/2023), Outstanding Graduate (2023)
 - **Bachelor's**: Social Work Award (2018), Outstanding Student Leader (2017/2019), Third-Class Scholarship (2019), Outstanding Graduate (2020)
 
 Language
