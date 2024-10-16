@@ -24,10 +24,10 @@ author:
   avatar           : "Bighead.png"
   name             : "Lu Hongcheng"
   pronouns         :  ##example: "He"  
-  bio              : "Chris Lu/陆泓承"
-  location         : "School of Journalism and Communication"
+  bio              : "School of Journalism and Communication"
+  location         : "Beijing"
   employer         : "Tsinghua University,Beijing "
-  uri              : # URL
+  uri              : "https://chrislu2016.github.io/ChrisLu/"
   email            : "luhc23@mails.tsinghua.edu.cn" 
 
   # Academic websites
