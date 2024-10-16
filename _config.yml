@@ -21,12 +21,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile.png"
+  avatar           : "Bighead.png"
   name             : "Lu Hongcheng"
   pronouns         :  ##example: "He"  
   bio              : "Chris Lu/陆泓承"
-  location         : "Beijing"
-  employer         : "Tsinghua University, School of Journalism and Communication"
+  location         : "School of Journalism and Communication"
+  employer         : "Tsinghua University,Beijing "
   uri              : # URL
   email            : "luhc23@mails.tsinghua.edu.cn" 
 
