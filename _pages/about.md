@@ -11,7 +11,7 @@ Hello, I'm **Lu Hongcheng (Chris Lu)**, currently pursuing my Ph.D. in Journalis
 My academic journey has been driven by a passion for understanding the dynamic intersections of **media economics, political communication**, and the **digital culture industry**. 
 
 
-Academic Journey
+Academic Background
 ======
 - **Ph.D.** in **Tsinghua University**, major in _Journalism and Communication_ ，GPA: 3.95/4.0，(2023-2027)
 - **Master's** in **Communication University of China**, major in _Media Economics_, GPA: 3.99/4.0，(2020-2023)
