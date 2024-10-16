@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Lu Hongcheng / Chris Lu"
+title                    : "Lu Hongcheng"
 title_separator          : "-"
 name                     : &name "Lu Hongcheng"
 description              : &description "Spelling is fine!"
@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "Profile.png"
-  name             : "Lu Hongcheng/陆泓承"
+  name             : "Lu Hongcheng"
   pronouns         :  ##example: "He"  
-  bio              : "Chris Lu"
+  bio              : "Chris Lu/陆泓承"
   location         : "Beijing"
-  employer         : "Tsinghua University"
+  employer         : "Tsinghua University, School of Journalism and Communication"
   uri              : # URL
   email            : "luhc23@mails.tsinghua.edu.cn" 
 
@@ -49,7 +49,7 @@ author:
 
   # Social media
   #bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : chrislu2016
+  facebook         : 100013955735449
   #flickr           : # Username
   #foursquare       : # Username
   #goodreads        : # Username
