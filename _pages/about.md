@@ -10,7 +10,7 @@ Hello, I'm **Lu Hongcheng (Chris Lu)**, currently pursuing my Ph.D. in school of
 
 My academic journey has been driven by a passion for understanding the dynamic intersections of **media economics, political communication, gender studies**, and the **digital culture industry**. 
 
-You can download my [CV](https://github.com/chrislu2016/ChrisLu/raw/master/ChrisLu-CV.pdf）here.
+You can download my [CV](https://github.com/chrislu2016/ChrisLu/raw/master/ChrisLu-CV.pdf) here.
 
 Education
 ======
