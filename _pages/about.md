@@ -11,7 +11,7 @@ Hello, I'm **Lu Hongcheng (Chris Lu)**, currently pursuing my Ph.D. in school of
 My academic journey has been driven by a passion for understanding the dynamic intersections of **media economics, political communication, gender studies**, and the **digital culture industry**. 
 
 
-Academic Background
+Education
 ======
 - **Ph.D.** in **Tsinghua University**, major in _Journalism and Communication_ ，GPA: 3.95/4.0，(2023-2027)
 - **Master's** in **Communication University of China**, major in _Media Economics_, GPA: 3.99/4.0，(2020-2023)
@@ -43,10 +43,10 @@ Research Work
   - Lu, H. (n.d.). Empowerment or Exploitation: A Network Ethnography of a Community of Tuwei Culture Content Creators in Douyin. Under second revision.
   - Lu, H. (n.d.). Can AI Match the Expertise of Financial Journalists in Writing News Commentary? An Online Experimental Analysis Based on the Heuristic-Systematic Model. Under third revision.
   - Lu, H. (n.d). The Role of News on the Confidence-Boosting Effect of Economic Policy Announcements: Empirical Quasi-Natural Experiment Evidence from China. Submitted to the *75th ICA*.
-  - Huang, P., Lu, H. (n.d). Digital Feminist Humor as a Weapon: A Sentiment and Topic Analysis of the Weibo Posts of the Fat Cat Event. Submitted to the *75th ICA*.
+  - Lu, H, Huang, P.. (n.d). Digital Feminist Humor as a Weapon: A Sentiment and Topic Analysis of the Weibo Posts of the Fat Cat Event. Submitted to the *75th ICA*.
   
 
-Research Projects
+Projects
 ======
   - **University-Level Project** "The Analysis and Diagnostic Report of the Branding situation of Guoneng Energy Group Wuhai Energy (2024)" (2024.07 - 2024.08)
   - **Industry-Funded Project** "Research on the Social Incentives and Mechanisms of Intimate Relationships among Chinese College Students" (2023.10 - Present)
@@ -77,3 +77,9 @@ Language
 - **Korean**: TOPIK-5
 - **English**: TEM-8
 - **French**: TFU-4
+
+Skills
+======
+
+- **Research & Analysis**: NLP (Python, LDA, Word2Vec), Network Analysis (Gephi, CiteSpace), Statistical Modeling (Stata, SPSS), Grounded Theory (NVivo)
+- **Media Skills**: Editing (Adobe Audition, Jianying), Design (Xiumi, InDesign)
