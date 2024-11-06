@@ -7,7 +7,7 @@ excerpt: "This study explores how data elements drive integration and transforma
 date: 2024-07-20
 venue: "Chinese Editorials(CSSCI)"
 slidesurl: 'https://kns.cnki.net/kcms2/article/abstract?v=Nyg97wmOeE556xkRcbFvMARs53SIg-oqk9IOB3K3dfmbIyC-n3mDp4CG8JZqzIFcTmnsMkXqmGLFUe3jtnuO-RccoDOgTw6MikueZrivAKZ3vEUGPfYP5hDGd8t3wp84rgXkK3N5SJ9TdVLHzPVEzlBSwXTatk46LGrwk-aQ5l1A77k8KMYTzwTiySxBY-Hs&uniplatform=NZKPT&language=CHS'
-paperurl: 'https://github.com/chrislu2016/ChrisLu/tree/master/files/data_empowerment_publishing.pdf'
+paperurl: 'https://github.com/chrislu2016/ChrisLu/tree/master/files/【2024】【中国出版】数据要素赋能出版业发展的路径与机制探讨_杭敏_.pdf'
 citation: "Hang, M., & Lu, H. (2024). Exploration of the paths and mechanisms for data elements empowering the development of the publishing industry. Chinese Editorials, (07), 18-23."
 ---
 
