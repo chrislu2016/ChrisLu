@@ -10,3 +10,7 @@ slidesurl: 'https://kns.cnki.net/kcms2/article/abstract?v=Nyg97wmOeE4RkjZV7-4JdI
 paperurl: 'https://github.com/chrislu2016/ChrisLu/tree/master/files/【2022】【电视研究】文化类综艺节目的品牌化经营策略——以《朗读者》为例.pdf'
 citation: "Zheng, S., Xi, Z., & Lu, H. (2022). Branding strategies of cultural variety shows: A case study of The Reader. Television Research, (05), 80-82."
 ---
+
+**Abstract**: Cultural variety shows serve as an essential medium for enhancing public literary appreciation and enriching spiritual life. Amid the continuous innovation in cultural variety programming, *Readers* demonstrates strong vitality and lasting influence through brand empowerment. This paper provides an in-depth analysis of the branding strategies employed by the *Readers* series, summarizing its multifaceted brand operation model. This model includes precise program positioning, enhanced multidimensional brand recognition, integrated online and offline brand promotion, cross-industry marketing, and brand extension. The study also offers insights into future brand development for cultural programs.
+
+**Keywords**: Brand Management, Cultural Variety Show, *Readers*, Brand Extension
