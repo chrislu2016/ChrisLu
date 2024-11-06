@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Chris"
+title                    : "Chris Lu"
 title_separator          : "-"
 name                     : &name "Lu Hongcheng"
 description              : &description "Spelling is fine!"
@@ -72,6 +72,7 @@ author:
   #xing             : # Username
   #youtube          : # Username
   #zhihu            : # Username
+  TikTok            : "https://v.douyin.com/iANXCmuh/"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
