@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, I'm **Lu Hongcheng (Chris Lu)**, currently pursuing my Ph.D. in Journalism and Communication at **Tsinghua University**. 
+Hello, I'm **Lu Hongcheng (Chris Lu)**, currently pursuing my Ph.D. in school of Journalism and Communication at **Tsinghua University**. 
 
-My academic journey has been driven by a passion for understanding the dynamic intersections of **media economics, political communication**, and the **digital culture industry**. 
+My academic journey has been driven by a passion for understanding the dynamic intersections of **media economics, political communication, gender studies**, and the **digital culture industry**. 
 
 
 Academic Background
@@ -16,7 +16,6 @@ Academic Background
 - **Ph.D.** in **Tsinghua University**, major in _Journalism and Communication_ ，GPA: 3.95/4.0，(2023-2027)
 - **Master's** in **Communication University of China**, major in _Media Economics_, GPA: 3.99/4.0，(2020-2023)
 - **Bachelor's in** in  **Beijing Foreign Studies University**,major in _International Economics & Trade with a double degree in French Literature_, GPA: 3.63/4.0，(2016-2020)
-
 
 Research Work
 ======
@@ -44,15 +43,15 @@ Research Work
   - Lu, H. (n.d.). Empowerment or Exploitation: A Network Ethnography of a Community of Tuwei Culture Content Creators in Douyin. Under second revision.
   - Lu, H. (n.d.). Can AI Match the Expertise of Financial Journalists in Writing News Commentary? An Online Experimental Analysis Based on the Heuristic-Systematic Model. Under third revision.
   - Lu, H. (n.d). The Role of News on the Confidence-Boosting Effect of Economic Policy Announcements: Empirical Quasi-Natural Experiment Evidence from China. Submitted to the *75th ICA*.
+  - Huang, P., Lu, H. (n.d). Digital Feminist Humor as a Weapon: A Sentiment and Topic Analysis of the Weibo Posts of the Fat Cat Event. Submitted to the *75th ICA*.
   
 
 Research Projects
 ======
-
+  - **University-Level Project** "The Analysis and Diagnostic Report of the Branding situation of Guoneng Energy Group Wuhai Energy (2024)" (2024.07 - 2024.08)
   - **Industry-Funded Project** "Research on the Social Incentives and Mechanisms of Intimate Relationships among Chinese College Students" (2023.10 - Present)
   - **University-Level Project** "Video Empowerment in Innovative International Communication of Traditional Culture" (2022.07 - Present)
-  - **University-Level Project** "The Analysis and Diagnostic Report of the Branding situation of Guoneng Energy Group Wuhai Energy (2024)" (2024.07 - 2024.08)
-  - **Major Social Science Project** "Emotional Public Opinion and Financial Crises Response Mechanisms" (2021.09 - 2022.10)
+  - **Social Science Project** "Emotional Public Opinion and Financial Crises Response Mechanisms" (2021.09 - 2022.10)
   - **University-Level Project** "Short-Form Video Consumption Among Gen Z" (2020.12 - 2022.05)
 
 Working Experience
@@ -61,15 +60,16 @@ Working Experience
   - **Tsinghua University Education Foundation** - Public Relations Department (2023.09 - 2024.07)
     - Maintained donor relationships, produced brand promotional films, and managed the foundation’s media matrix.
   - **Beijing Kuaishou Technology Co., Ltd.** - Content Operations Specialist (2021.05 - 2021.08)
-    - Managed high-quality author communities, optimized content, and led celebrity author introductions and live broadcast projects.
+    - Managed creators' communities, led celebrity author introductions and live broadcast projects.
   - **Guilin TV Station** - Video Journalist and Editor (2019.12 - 2020.02)
-    - Reviewed and edited news for *Guilin News* in Guilin TV.
+    - Reported and edited news for *Guilin News* in Guilin TV.
 
 Honors
 ======
 
-- **Master's**: National Scholarship (2022), Second-Class Scholarship (2021), Merit Student (2021/2023), Outstanding Graduate (2023)
 - **Bachelor's**: Social Work Award (2018), Outstanding Student Leader (2017/2019), Third-Class Scholarship (2019), Outstanding Graduate (2020)
+- **Master's**: National Scholarship (2022), Second-Class Scholarship (2021), Merit Student (2021/2023), Outstanding Graduate (2023)
+- **Ph.d**: Second-Class Scholarship (2024)
 
 Language
 ======
