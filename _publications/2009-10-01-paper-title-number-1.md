@@ -1,14 +1,14 @@
 ---
-title: "数据要素赋能出版业发展的路径与机制探讨 (Pathways and Mechanisms of Data Empowerment in Publishing Industry Development)"
+title: "Pathways and Mechanisms of Data Empowerment in Publishing Industry Development"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-07-20-data-empowerment-publishing
-excerpt: "本文探讨了数据要素在出版业深度融合与转型发展中的作用，从资源禀赋、出版价值链和出版产业链三方面分析其赋能机制。(This paper explores the role of data elements in the deep integration and transformation of the publishing industry, analyzing the empowerment mechanisms from the perspectives of resource endowment, publishing value chain, and publishing industry chain.)"
+excerpt: "This study explores how data elements drive integration and transformation in the publishing industry, emphasizing resource endowment, value chain optimization, and new growth opportunities."
 date: 2024-07-20
-venue: "中国编辑 (China Editor)"
-slidesurl: ''
-paperurl: 'https://next.cnki.net/middle/abstract?v=Nyg97wmOeE5bm3gm-1CWpAWdYbvIBVjc8CyYyaRSaYCYPIqpKFTVTZg89Xd5WY2f67sHGGnMNiLPeRAMrM8zo826P2jXoSpavew46BPlgYOO90PPn2IKjHrzEPXS-L-ozfAs4AEQoGWIqjG_Q5jDZGs5xCdctk_NKAqUrHUyZozFTd3cam3d0A==&uniplatform=NZKPT&language=CHS&scence=null'
-citation: "Hang, M., & Lu, H. (2024). Exploration of the paths and mechanisms for data elements empowering the development of the publishing industry. Chinese Editorials, (07), 18-23. 杭敏, 陆泓承. (2024). 数据要素赋能出版业发展的路径与机制探讨. 《中国编辑》, (07), 18-23."
+venue: "Chinese Editorials(CSSCI)"
+slidesurl: 'https://kns.cnki.net/kcms2/article/abstract?v=Nyg97wmOeE556xkRcbFvMARs53SIg-oqk9IOB3K3dfmbIyC-n3mDp4CG8JZqzIFcTmnsMkXqmGLFUe3jtnuO-RccoDOgTw6MikueZrivAKZ3vEUGPfYP5hDGd8t3wp84rgXkK3N5SJ9TdVLHzPVEzlBSwXTatk46LGrwk-aQ5l1A77k8KMYTzwTiySxBY-Hs&uniplatform=NZKPT&language=CHS'
+paperurl: 'https://github.com/chrislu2016/ChrisLu/tree/master/files/data_empowerment_publishing.pdf'
+citation: "Hang, M., & Lu, H. (2024). Exploration of the paths and mechanisms for data elements empowering the development of the publishing industry. Chinese Editorials, (07), 18-23."
 ---
 
 
