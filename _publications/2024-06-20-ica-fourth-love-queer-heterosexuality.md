@@ -7,5 +7,5 @@ excerpt: "This study investigates the concept of 'Fourth-Love' within China's qu
 date: 2024-06-20
 venue: "74th Annual ICA Conference"
 location: "Gold Coast, Australia"
-citation: "Huang，P.,Lu, H. (2024). Exploring the awareness of attraction of the Fourth-Love queer heterosexuality community in China: A constructivist grounded theory approach. Presented at the 74th Annual ICA Conference, Gold Coast, Australia."
+citation: 
 ---
