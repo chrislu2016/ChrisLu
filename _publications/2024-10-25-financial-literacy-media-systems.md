@@ -7,5 +7,5 @@ excerpt: "This comparative study examines the role of national financial literac
 date: 2024-10-25
 venue: "2024 Annual Conference of the Chinese Association for Journalism History, Media Economy, and Management Section"
 location: "Hangzhou, China"
-citation: "Lu, H., Huang, P., & Xu, B. (2024). Can national financial literacy better explain the differences in financial media systems across countries? A comparative study based on 19 European nations. Presented at the 2024 Annual Conference of the Chinese Association for Journalism History, Media Economy, and Management Section, Hangzhou, China."
+citation: 
 ---
