@@ -82,5 +82,5 @@ Language
 Skills
 ======
 
-- **Research & Analysis**: NLP (Python, LDA, Word2Vec), Network Analysis (Gephi, CiteSpace), Statistical Modeling (Stata, SPSS), Grounded Theory (NVivo)
-- **Media Skills**: Editing (Adobe Audition, Jianying), Design (Xiumi, InDesign)
+- **Research & Analysis**: NLP(Python-LDA), Network Analysis (Gephi, CiteSpace), Statistical Modeling (Stata, SPSS), Grounded Theory (NVivo)
+- **Media Skills**: Editing (Audition,Fincal Cut Pro), Design (Xiumi, InDesign)
