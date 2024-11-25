@@ -42,7 +42,7 @@ Research Work
 ## Work in Progress
 
   - Lu, H. (n.d.). Empowerment or Exploitation: A Network Ethnography of a Community of Tuwei Culture Content Creators in Douyin. Under second revision.
-  - Lu, H. (n.d.). Can AI Match the Expertise of Financial Journalists in Writing News Commentary? An Online Experimental Analysis Based on the Heuristic-Systematic Model.Accepted.
+  - Lu, H. (n.d.). Can AI Match the Expertise of Financial Journalists in Writing News Commentary? An Online Experimental Analysis Based on the Heuristic-Systematic Model. Accepted.
   - Lu, H. (n.d). The Role of News on the Confidence-Boosting Effect of Economic Policy Announcements: Empirical Quasi-Natural Experiment Evidence from China. Submitted to the *75th ICA*.
   - Lu, H, Huang, P.. (n.d). Digital Feminist Humor as a Weapon: A Sentiment and Topic Analysis of the Weibo Posts of the Fat Cat Event. Submitted to the *75th ICA*.
   
