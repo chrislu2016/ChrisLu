@@ -67,8 +67,8 @@ Working Experience
 
 Teaching
 ======
-- **Teaching Assistant (TA)**: Journalism Economics and Basics of Accounting，Tsinghua U，2023FALL & 2024FALL
-- **Teaching Assistant (TA)**: Economic Journalism and Communication，Tsinghua U，2024SPRING
+- **Teaching Assistant (TA)**: Journalism Economics and Basics of Accounting, Tsinghua University, 2023F/W & 2024F/W
+- **Teaching Assistant (TA)**: Economic Journalism and Communication，Tsinghua University, 2024S/S
 
 Honors
 ======
