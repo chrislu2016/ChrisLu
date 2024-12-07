@@ -39,7 +39,7 @@ Research Work
 ## Conference Presentations
 
 - Huang, P., & **Lu, H.** (2024). Exploring the gender attraction perceptions of the fourth queer heterosexual group in China. Oral presentation at the *74th ICA*, LGBTQ+ Panel, Gold Coast, Australia.
-- **Lu, H. ** (2024). Can National Financial Literacy Better Explain the Differences in Financial Media Systems Among Countries? Paper presented at the *2024 Annual Conference of the China Association for the History of Journalism and Mass Communication*, Hangzhou, China.
+- **Lu, H.** (2024). Can National Financial Literacy Better Explain the Differences in Financial Media Systems Among Countries? Paper presented at the *2024 Annual Conference of the China Association for the History of Journalism and Mass Communication*, Hangzhou, China.
 
 ## Work in Progress
 
