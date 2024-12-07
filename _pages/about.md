@@ -49,8 +49,8 @@ Research Work
   
 Projects
 ======
-  - **University-funded Project** "The Analysis and Diagnostic Report of the Branding situation of Guoneng Energy Group Wuhai Energy (2024)" (2024.07 - 2024.08)
-  - **Company-Funded Project** "Research on the Social Incentives and Mechanisms of Intimate Relationships among Chinese College Students" (2023.10 - Present)
+  - **University-funded Project** "The Analysis of the Branding situation of Guoneng Energy Group Wuhai Energy (2024)" (2024.07 - 2024.08)
+  - **Company-funded Project** "Research on the Social Incentives and Mechanisms of Intimate Relationships among Chinese College Students" (2023.10 - Present)
   - **University-funded Project** "Video Empowerment in Innovative International Communication of Traditional Culture" (2022.07 - Present)
   - **Social Science Project** "Emotional Public Opinion and Financial Crises Response Mechanisms" (2021.09 - 2022.10)
   - **University-funded Project** "Short-Form Video Consumption Among Gen Z" (2020.12 - 2022.05)
