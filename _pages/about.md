@@ -23,7 +23,7 @@ Research Work
 
 ## Published
   - **CSSCI TOP**: **Lu, H.** (2024). Can AI Match the Expertise of Financial Journalists in Writing News Commentary? An Online Experimental Analysis Based on the Heuristic-Systematic Model. *Chinese Journal of Journalism & Communication*,(10), 28-48.
-    **陆泓承**. (2024). AI写作财经评论能否匹配人类记者的专业度？—基于HSM模型的在线实验分析. *国际新闻界*, 10, 28–48.
+    **陆泓承**. (2024). AI写作财经评论能否匹配人类记者的专业度？—基于HSM模型的在线实验分析. 国际新闻界, 10, 28–48.
   - **CSSCI**: Hang, M., & **Lu, H**. (2024). Exploration of the paths and mechanisms for data elements empowering the development of the publishing industry. *Chinese Editorials*, (07), 18-23.
     杭敏 & **陆泓承**. (2024). 数据要素赋能出版业发展的路径与机制探讨. 中国编辑, 7, 18–23.
   - **CSSCI TOP**: **Lu, H.**, & Zheng, S. (2024). Causes and countermeasures of public opinion risks faced by multinational digital platforms in information geopolitics: A case study of multiple international sanctions against TikTok. *Modern Communication*, (07), 59-66.
