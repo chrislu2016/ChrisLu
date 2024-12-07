@@ -32,7 +32,7 @@ Research Work
     **陆泓承**. (2024). 制度逻辑视角下短视频微短剧行业的发展逻辑研究. 当代电视, 2, 60–66.
   - **CSSCI TOP**: Zheng, S., **Lu, H.**, & Yin, W. (2022). An exploration of the driving forces behind the shortening trend of window periods from an institutional logic perspective. *Film Art*, (03), 155-160.
     郑苏晖, **陆泓承**, & 殷雯馨. (2022). 制度逻辑视角下院线窗口期缩短趋势的动因探究. 电影艺术, 3, 155–160.
-  - **CSSCI**: Zheng, S., Xi, Z., &** Lu, H.** (2022). Branding strategies of cultural variety shows: A case study of *The Reader*. *Television Research*, (05), 80-82.
+  - **CSSCI**: Zheng, S., Xi, Z., &**Lu, H.** (2022). Branding strategies of cultural variety shows: A case study of *The Reader*. *Television Research*, (05), 80-82.
     郑苏晖, 郗展弘, & **陆泓承**. (2022). 文化类综艺节目的品牌化经营策略——以《朗读者》为例. 电视研究, 5, 80–82.
 
   
