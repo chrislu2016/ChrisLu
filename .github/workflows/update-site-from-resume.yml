@@ -1,0 +1,27 @@
+name: Update site from resume
+
+on:
+  push:
+    paths:
+      - "resume/resume.json"
+      - "scripts/generate_site.py"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Generate pages
+        run: python3 scripts/generate_site.py
+
+      - name: Commit generated pages
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update site from resume"
+          file_pattern: "_pages/about.md _pages/cv.md"

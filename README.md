@@ -1,6 +1,16 @@
 # Academic Pages
 **Academic Pages is a Github Pages template for academic websites.**
 
+## Resume-driven site updates
+
+This fork keeps the homepage and CV page in sync with `resume/resume.json`.
+
+1. Edit `resume/resume.json`.
+1. Run `python3 scripts/generate_site.py` to refresh `_pages/about.md` and `_pages/cv.md`.
+1. Commit and push the changes.
+
+GitHub Actions also runs the generator automatically when `resume/resume.json` or `scripts/generate_site.py` changes.
+
 # Getting Started
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
