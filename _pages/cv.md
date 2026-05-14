@@ -32,13 +32,21 @@ Publications
 - Huang, P., & **Lu, H.** (2026). Digital feminist humor as a weapon: A humor and topic analysis of the Weibo posts of the Fat Cat event. *Feminist Media Studies, 0*(0). (SSCI, Q2)
 - Huang, P., **Lu, H.**, & Zhu, M. (2026). Negotiating fluidity: How China's “fourth-love” redoes gender within heteronormativity. *Sexualities, 0*(0). (SSCI, Q1)
 - Zhang, Z., & **Lu, H.** (2025). From human-machine competition to human-centeredness: The development path of human-AI collaboration and reflections on subjectivity. *Chinese Editorials*, (9), 82-87. (in Chinese, CSSCI)
+  张自中 & **陆泓承**. (2025). 从人机竞争回归以人为本：人与AI协作的发展进路与主体性反思. 中国编辑, (09), 82-87.
 - **Lu, H.** (2025). Marginalization and decentralization: Power relations in "Tuwei" secondary creation culture. *Contemporary Youth Research*, (3), 34-48. (in Chinese, CSSCI)
+  **陆泓承**. (2025). 边缘化与离心化：土味二创文化中的权力关系. 当代青年研究, (03), 34-48.
 - **Lu, H.** (2024). Can AI match the expertise of financial journalists in writing news commentary? An online experimental analysis based on the Heuristic-Systematic Model. *Chinese Journal of Journalism & Communication*, (10), 28-48. (in Chinese, CSSCI TOP)
+  **陆泓承**. (2024). AI写作财经评论能否匹配人类记者的专业度？——基于HSM模型的在线实验分析. 国际新闻界, (10), 28-48.
 - Hang, M., & **Lu, H.** (2024). Exploration of the paths and mechanisms for data elements empowering the development of the publishing industry. *Chinese Editorials*, (07), 18-23. (in Chinese, CSSCI)
+  杭敏 & **陆泓承**. (2024). 数据要素赋能出版业发展的路径与机制探讨. 中国编辑, (07), 18-23.
 - **Lu, H.**, & Zheng, S. (2024). Causes and countermeasures of public opinion risks faced by multinational digital platforms in information geopolitics: A case study of multiple international sanctions against TikTok. *Modern Communication*, (07), 59-66. (in Chinese, CSSCI TOP)
+  **陆泓承** & 郑苏晖. (2024). 信息地缘政治博弈中跨国数字平台舆论风险的成因与应对——以TikTok遭遇的多起国际制裁事件为例. 现代传播（中国传媒大学学报）, (07), 59-66.
 - **Lu, H.** (2024). Research on the institutional logic of short video micro-dramas industry. *Contemporary Television*, (02), 60-66. (in Chinese, CSSCI)
+  **陆泓承**. (2024). 制度逻辑视角下短视频微短剧行业的发展逻辑研究. 当代电视, (02), 60-66.
 - Zheng, S., **Lu, H.**, & Yin, W. (2022). An exploration of the driving forces behind the shortening trend of window periods from an institutional logic perspective. *Film Art*, (03), 155-160. (in Chinese, CSSCI TOP)
+  郑苏晖, **陆泓承** & 殷雯馨. (2022). 制度逻辑视角下院线窗口期缩短趋势的动因探究. 电影艺术, (03), 155-160.
 - Zheng, S., Xi, Z., & **Lu, H.** (2022). Branding strategies of cultural variety shows: A case study of *The Reader*. *Television Research*, (05), 80-82. (in Chinese, CSSCI)
+  郑苏晖, 郗展弘 & **陆泓承**. (2022). 文化类综艺节目的品牌化经营策略——以《朗读者》为例. 电视研究, (05), 80-82.
 
 Conference Papers
 =================

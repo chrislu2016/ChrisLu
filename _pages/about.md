@@ -30,9 +30,13 @@ Publications
 - Huang, P., & **Lu, H.** (2026). Digital feminist humor as a weapon: A humor and topic analysis of the Weibo posts of the Fat Cat event. *Feminist Media Studies*, 0(0). (SSCI, Q2)
 - Huang, P., **Lu, H.**, & Zhu, M. (2026). Negotiating fluidity: How China's “fourth-love” redoes gender within heteronormativity. *Sexualities*, 0(0). (SSCI, Q1)
 - Zhang, Z., & **Lu, H.** (2025). From human-machine competition back to human-centered collaboration: Development paths and subjectivity reflections on human-AI collaboration. *Chinese Editorials*, (09), 82-87. (CSSCI)
+  张自中 & **陆泓承**. (2025). 从人机竞争回归以人为本：人与AI协作的发展进路与主体性反思. 中国编辑, (09), 82-87.
 - **Lu, H.** (2025). Marginalization and centrifugalization: Power relations in Tuwei remix culture. *Contemporary Youth Research*, (03), 34-48.
+  **陆泓承**. (2025). 边缘化与离心化：土味二创文化中的权力关系. 当代青年研究, (03), 34-48.
 - **Lu, H.** (2024). Can AI match the expertise of financial journalists in writing news commentary? An online experimental analysis based on the HSM model. *Chinese Journal of Journalism & Communication*, (10), 28-48. (CSSCI TOP)
+  **陆泓承**. (2024). AI写作财经评论能否匹配人类记者的专业度？——基于HSM模型的在线实验分析. 国际新闻界, (10), 28-48.
 - **Lu, H.**, & Zheng, S. (2024). Causes and countermeasures of public opinion risks faced by transnational digital platforms in information geopolitics: A case study of multiple international sanctions against TikTok. *Modern Communication*, (07), 59-66. (CSSCI TOP)
+  **陆泓承** & 郑苏晖. (2024). 信息地缘政治博弈中跨国数字平台舆论风险的成因与应对——以TikTok遭遇的多起国际制裁事件为例. 现代传播（中国传媒大学学报）, (07), 59-66.
 
 Conference Presentations
 ========================
