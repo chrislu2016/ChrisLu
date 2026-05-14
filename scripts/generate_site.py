@@ -122,8 +122,8 @@ def build_about(data: dict) -> str:
         ]
     )
     lines.extend(section("Education", education))
-    lines.extend(section("Selected Publications", selected_publications))
-    lines.extend(section("Selected Conference Presentations", selected_conferences))
+    lines.extend(section("Publications", selected_publications))
+    lines.extend(section("Conference Presentations", selected_conferences))
     lines.extend(section("Research Projects", projects))
     lines.extend(section("Teaching", [
         "- Teaching Assistant, Journalism Economics and Basics of Accounting, Tsinghua University, 2023F/W & 2024F/W.",

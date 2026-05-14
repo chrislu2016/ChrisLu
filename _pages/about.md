@@ -24,8 +24,8 @@ Education
 - **M.A. in Media Economics**, Communication University of China, 2020.9 - 2023.6. GPA: 3.99/4.0. Advisor: Suhui Zheng.
 - **B.A. in International Economics and Trade** with a second degree in French Literature, Beijing Foreign Studies University, 2016.9 - 2020.6. GPA: 3.63/4.0.
 
-Selected Publications
-=====================
+Publications
+============
 
 - Huang, P., & **Lu, H.** (2026). Digital feminist humor as a weapon: A humor and topic analysis of the Weibo posts of the Fat Cat event. *Feminist Media Studies*, 0(0). (SSCI, Q2)
 - Huang, P., **Lu, H.**, & Zhu, M. (2026). Negotiating fluidity: How China's “fourth-love” redoes gender within heteronormativity. *Sexualities*, 0(0). (SSCI, Q1)
@@ -34,8 +34,8 @@ Selected Publications
 - **Lu, H.** (2024). Can AI match the expertise of financial journalists in writing news commentary? An online experimental analysis based on the HSM model. *Chinese Journal of Journalism & Communication*, (10), 28-48. (CSSCI TOP)
 - **Lu, H.**, & Zheng, S. (2024). Causes and countermeasures of public opinion risks faced by transnational digital platforms in information geopolitics: A case study of multiple international sanctions against TikTok. *Modern Communication*, (07), 59-66. (CSSCI TOP)
 
-Selected Conference Presentations
-=================================
+Conference Presentations
+========================
 
 - **Lu, H.** (2026). Cognitive Offloading in the Age of Generative AI: Rethinking Critical Media Education for Combating Fake News Vulnerability. Paper presented at the IAMCR Annual Conference, Galway, Ireland.
 - **Lu, H.**, & Huang, P. (2026). Digital feminist humor as a weapon: A humor and topic analysis of the Weibo posts of the Fat Cat event. Oral presentation at the 76th ICA, Cape Town, South Africa.
