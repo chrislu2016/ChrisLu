@@ -11,93 +11,91 @@ redirect_from:
 
 # 陆泓承 Lu Hongcheng
 
-清华大学新闻与传播学院
+School of Journalism and Communication, Tsinghua University, China
 
 - Email: [luhc23@mails.tsinghua.edu.cn](mailto:luhc23@mails.tsinghua.edu.cn)
 - Homepage: [https://chrislu2016.github.io/ChrisLu/](https://chrislu2016.github.io/ChrisLu/)
-- Languages: 中文、英语（TEM-8）、法语（TFU-4）、韩语（TOPIK-5）
-- Research interests: 经济传播、国家形象、性别研究、数字文化、媒介产业
+- Languages: Chinese, English (TEM-8), French (TFU-4), Korean (TOPIK-5)
+- Research interests: policy communication, national image, financial communication, media economics
 Last updated: 2026/03/15
 
 Education
 =========
 
-- **新加坡国立大学**，新加坡，2026.2 - 2026.8  访问学者 | 导师: 祁东涛 | 东亚研究所
-- **清华大学**，中国，2023.9 - 至今  新闻与传播学博士 | GPA: 3.95/4.0 | 导师: 杭敏 | 经济传播研究中心 | 新加坡国立大学访问（2026）
-- **中国传媒大学**，中国，2020.9 - 2023.6  传媒经济学硕士 | GPA: 3.99/4.0 | 导师: 郑苏晖 | 商务品牌战略研究所
-- **北京外国语大学**，中国，2016.9 - 2020.6  国际经济与贸易学士（法语文学双学位） | GPA: 3.63/4.0 | 韩国又松大学 Solbridge 交换（2017）
+- **Tsinghua University**, China, Sep. 2023 - Present. Ph.D. in Journalism and Communication | GPA: 3.95/4.0 | Supervisor: Min Hang.
+- **Communication University of China**, China, Sep. 2020 - Jun. 2023. Master in Media Economics | GPA: 3.99/4.0 | Supervisor: Suhui Zheng.
+- **Beijing Foreign Studies University**, China, Sep. 2016 - Jun. 2020. Bachelor in International Economics & Trade + French Literature | GPA: 3.63/4.0.
 
 Publications
 ============
 
-- Huang, P., & Lu, H. (2026). Digital feminist humor as a weapon: A humor and topic analysis of the weibo posts of the fat cat event. Feminist Media Studies, 0(0). (SSCI, Q2)
-- Huang, P., Lu, H., & Zhu, M. (2026). Negotiating fluidity: How China’s “fourth-love” redoes gender within heteronormativity. Sexualities, 0(0). (SSCI, Q1)
-- 张自中 & 陆泓承. (2025). 从人机竞争回归以人为本：人与 AI 协作的发展进路与主体性反思. 中国编辑, (09), 82-87.（CSSCI）
-- 陆泓承. (2025). 边缘化与离心化：土味二创文化中的权力关系. 当代青年研究, (03), 34-48.
-- 陆泓承. (2024). AI 写作财经评论能否匹配人类记者的专业度？——基于 HSM 模型的在线实验分析. 国际新闻界, (10), 28-48.（CSSCI TOP）
-- 杭敏 & 陆泓承. (2024). 数据要素赋能出版业发展的路径与机制探讨. 中国编辑, (07), 18-23.
-- 陆泓承 & 郑苏晖. (2024). 信息地缘政治博弈中跨国数字平台舆论风险的成因与应对——以 TikTok 遭遇的多起国际制裁事件为例. 现代传播(中国传媒大学学报), (07), 59-66.（CSSCI TOP）
-- 陆泓承. (2024). 制度逻辑视角下短视频微短剧行业的发展逻辑研究. 当代电视, (02), 60-66.
-- 郑苏晖, 陆泓承 & 殷雯馨. (2022). 制度逻辑视角下院线窗口期缩短趋势的动因探究. 电影艺术, (03), 155-160.（CSSCI TOP）
-- 郑苏晖, 郗展弘 & 陆泓承. (2022). 文化类综艺节目的品牌化经营策略——以《朗读者》为例. 电视研究, (05), 80-82.（CSSCI）
+- Huang, P., & **Lu, H.** (2026). Digital feminist humor as a weapon: A humor and topic analysis of the Weibo posts of the Fat Cat event. *Feminist Media Studies, 0*(0). (SSCI, Q2)
+- Huang, P., **Lu, H.**, & Zhu, M. (2026). Negotiating fluidity: How China's “fourth-love” redoes gender within heteronormativity. *Sexualities, 0*(0). (SSCI, Q1)
+- Zhang, Z., & **Lu, H.** (2025). From human-machine competition to human-centeredness: The development path of human-AI collaboration and reflections on subjectivity. *Chinese Editorials*, (9), 82-87. (in Chinese, CSSCI)
+- **Lu, H.** (2025). Marginalization and decentralization: Power relations in "Tuwei" secondary creation culture. *Contemporary Youth Research*, (3), 34-48. (in Chinese, CSSCI)
+- **Lu, H.** (2024). Can AI match the expertise of financial journalists in writing news commentary? An online experimental analysis based on the Heuristic-Systematic Model. *Chinese Journal of Journalism & Communication*, (10), 28-48. (in Chinese, CSSCI TOP)
+- Hang, M., & **Lu, H.** (2024). Exploration of the paths and mechanisms for data elements empowering the development of the publishing industry. *Chinese Editorials*, (07), 18-23. (in Chinese, CSSCI)
+- **Lu, H.**, & Zheng, S. (2024). Causes and countermeasures of public opinion risks faced by multinational digital platforms in information geopolitics: A case study of multiple international sanctions against TikTok. *Modern Communication*, (07), 59-66. (in Chinese, CSSCI TOP)
+- **Lu, H.** (2024). Research on the institutional logic of short video micro-dramas industry. *Contemporary Television*, (02), 60-66. (in Chinese, CSSCI)
+- Zheng, S., **Lu, H.**, & Yin, W. (2022). An exploration of the driving forces behind the shortening trend of window periods from an institutional logic perspective. *Film Art*, (03), 155-160. (in Chinese, CSSCI TOP)
+- Zheng, S., Xi, Z., & **Lu, H.** (2022). Branding strategies of cultural variety shows: A case study of *The Reader*. *Television Research*, (05), 80-82. (in Chinese, CSSCI)
 
-Conference Presentations
-========================
-
-- Lu, H. (2026). Cognitive Offloading in the Age of Generative AI: Rethinking Critical Media Education for Combating Fake News Vulnerability. Paper presented at the International Association for Media and Communication Research (IAMCR) Annual Conference, Media Education Research Section (MER), Galway, Ireland.
-- Lu, H., & Huang, P. (2026). Digital feminist humor as a weapon: A humor and topic analysis of the Weibo posts of the Fat Cat event. Oral presented at the 76th ICA, Feminist Scholarship Division, Cape Town, South Africa.
-- Lu, H. (2025). The Role of News on the Confidence-Boosting Effect of Economic Policy Announcement: Empirical Quasi-natural Experiment Evidence of China. Oral presented at the 111th NCA, Political Communication Division, Denver, United State.
-- Lu, H. (2025). Empowerment or Exploitation: A Network Ethnography on a Tuwei Culture Content Creators’ Community in Douyin. Oral presented at the 111th NCA, Ethnography Division, Denver, United State.
-- 陆泓承. (2025). 不止于信息传递：经济政策传播中新闻如何影响信心？——基于中央经济工作会议的准自然实验. 2025 年清华大学新闻传播学博士生学术论坛·青年学者论坛，北京，中国（优秀论文奖）。
-- 陆泓承, 黄培智 & 徐博. (2025). 传统杂志期刊融合转型中的融媒品牌建设研究：以“三联·中读”为例. 2025 年中国新闻史学会传媒经济与管理专业委员会学术年会，长沙，中国（优秀论文奖）。
-- Huang, P., & Lu, H. (2024). Exploring the gender attraction perceptions of the fourth queer heterosexual group in China. Oral presented at the 74th ICA, LGBTQ+ Panel, Gold Coast, Australia.
-- 陆泓承, 黄培智 & 徐博. (2024). 国民财经素养能否更好解释财经媒介体制的国别差异：欧洲 19 国财经媒介体制的比较研究. 2024 年中国新闻史学会传媒经济与管理专业委员会学术年会，杭州，中国。
-
-Works in Progress
+Conference Papers
 =================
 
-- 陆泓承. (n.d.). 探究传媒经济学的“中国问题”——基于学科外部史的梳理和分析。
-- 陆泓承. (n.d.). 从“媒介融合”到“主流媒体系统性变革”的理论演进——基于文献计量学的对比分析。
-- 陆泓承. (n.d.). 经济政策传播中新闻媒体如何影响政策叙事？——以“924 一揽子金融政策”的传播实践为例。
-- 陆泓承. (n.d.). 经济政策传播中的“时间之维”：政策新闻对市场信心提振的时变动态分析。
-- 刘晨旭 & 陆泓承. (n.d.). 非正式制度促进主动披露：儒家文化与媒体监督对企业 ESG 信息披露的作用。
-- 陆泓承 & 杨肇祎. (n.d.). 地缘政治或平台治理：各国制裁 TikTok 的动因组态分析。
+- **Lu, H.** (2026). Cognitive Offloading in the Age of Generative AI: Rethinking Critical Media Education for Combating Fake News Vulnerability. Paper presented at the International Association for Media and Communication Research (IAMCR) Annual Conference, Media Education Research Section (MER), Galway, Ireland.
+- **Lu, H.**, & Huang, P. (2026). Digital feminist humor as a weapon: A humor and topic analysis of the Weibo posts of the Fat Cat event. Oral presentation at the 76th ICA, Feminist Scholarship Division, Cape Town, South Africa.
+- **Lu, H.** (2025). The Role of News on the Confidence-Boosting Effect of Economic Policy Announcement: Empirical Quasi-natural Experiment Evidence of China. Oral presentation at the 111th NCA, Political Communication Division, Denver, United States.
+- **Lu, H.** (2025). Empowerment or Exploitation: A Network Ethnography on a Tuwei Culture Content Creators' Community in Douyin. Oral presentation at the 111th NCA, Ethnography Division, Denver, United States.
+- **Lu, H.** (2025). More than mere information transmission: How news influences confidence in economic policy communication? A quasi-natural experiment based on the Central Economic Work Conference. Oral presentation at the 2025 Tsinghua University Doctoral Student Academic Forum on Journalism and Communication & Young Scholars Forum, Beijing, China. (Excellent Paper Award)
+- **Lu, H.**, Huang, P., & Xu, B. (2025). Research on integrated media brand building in the convergence transformation of traditional magazines and journals: The case of "Sanlian Zhongdu." Oral presentation at the 2025 Academic Annual Conference of the Media Economics and Management Committee of the Chinese Association for History of Journalism and Mass Communication, Changsha, China. (Excellent Paper Award)
+- Huang, P., & **Lu, H.** (2024). Exploring the gender attraction perceptions of the fourth queer heterosexual group in China. Oral presentation at the 74th ICA, LGBTQ+ Panel, Gold Coast, Australia.
+- **Lu, H.**, Huang, P., & Xu, B. (2024). Can National Financial Literacy Better Explain the Differences in Financial Media Systems Among Countries? Oral presentation at the 2024 Annual Conference of the China Association for the History of Journalism and Mass Communication, Hangzhou, China. (in Chinese)
 
-Research Projects
-=================
+Working Papers
+==============
 
-- **经济政策传播中新闻对信心的作用和机制研究**，校级资助项目（主持），2024.12 - 至今
-- **统筹经济治理与舆论宣传构建市场预期引导机制**，校级资助项目，2024.6 - 2025.12
-- **国能能源集团乌海能源品牌状况分析**，校级资助项目，2023.9 - 2024.6
-- **中国大学生亲密关系的社会动因与机制研究**，企业资助项目，2023.10 - 2025.9
-- **短视频赋能传统文化国际传播**，校级资助项目，2022.10 - 2024.8
-- **Z 世代短视频消费特征研究**，校级资助项目，2020.12 - 2022.5
+- **Lu, H.**, & Yang, Z. (under review). Transnational digital platforms in informational geopolitics: A qualitative comparative analysis of 31 countries' motives to sanction TikTok. Journal article. (in Chinese)
+- Liu, C., & **Lu, H.** (under review). Informal systems for proactive disclosure: The role of Confucian culture and media monitoring on corporate ESG disclosure. Journal article. (in Chinese)
+- **Lu, H.** (under review). The role of news on the confidence-boosting effect of economic policy announcements: Empirical quasi-natural experiment evidence from China. Journal article. (in Chinese)
 
-Professional Experience
-=======================
-
-- **清华大学教育基金会**，公共关系部，2023.9 - 2024.7  维护捐赠者关系，制作品牌宣传片，更新基金会新媒体矩阵。
-- **北京快手科技有限公司**，垂类运营，2021.5 - 2024.8  管理创作者社区，垂类促活，引入大咖，负责直播项目。
-- **桂林电视台**，视频记者与编辑，2019.12 - 2020.2  为桂林电视台《桂林新闻》进行新闻报道及编辑工作。
-
-Teaching
+Projects
 ========
 
-- 新闻记者经济学与会计学基础，助教，清华大学，2023F/W & 2024F/W
-- 经济新闻报道与经济传播，助教，清华大学，2024S/S
-- 传媒经济研究，助教，清华大学，2025S/S
+- Research on the Role and Mechanism of News in Confidence during Economic Policy Communication, University-funded Project, Dec. 2024 - Present.
+- Construction of a Market Expectation Guidance Mechanism by Coordinating Economic Governance and Public Opinion Propaganda, University-funded Project, Jun. 2024 - Dec. 2025.
+- The Analysis of the Branding Situation of Guoneng Energy Group Wuhai Energy, University-funded Project, Sep. 2023 - Jun. 2024.
+- Research on the Social Incentives and Mechanisms of Intimate Relationships among Chinese College Students, Company-funded Project, Oct. 2023 - Jun. 2025.
+- Video Empowerment in Innovative International Communication of Traditional Culture, University-funded Project, Oct. 2022 - Jun. 2024.
+- Short-Form Video Consumption Among Gen Z, University-funded Project, Dec. 2020 - May 2022.
 
-Honors
-======
+Work Experience
+===============
 
-- 本科：社会工作奖（2018）、优秀学生干部（2017/2019）、三等奖学金（2019）、优秀毕业生（2020）
-- 研究生：二等奖学金（2021）、校级三好学生（2021/2023）、国家奖学金（2022）、优秀毕业生（2023）
-- 博士：国家奖学金（2025）、二等奖学金（2024）、优秀助教（2024/2025）
+- **Tsinghua University Education Foundation**, Public Relations Department, Sep. 2023 - Jun. 2024. Maintained donor relationships, produced brand films, and updated the foundation's media channel.
+- **Beijing Kuaishou Technology Co., Ltd.**, Content Operations Specialist, May 2021 - Aug. 2021. Managed creators' communities, led celebrity author introductions and live broadcast projects.
+- **Guilin TV Station**, Video Journalist and Editor, Dec. 2019 - Feb. 2020. Reported and edited news for *Guilin News*.
+
+Teaching Experience
+===================
+
+- Economics and Basics of Accounting for Journalist, Teaching Assistant, Tsinghua University, 2023F/W & 2024F/W.
+- Economic Journalism and Communication, Teaching Assistant, Tsinghua University, 2024S/S.
+
+Awards & Honors
+===============
+
+- Bachelor: Social Work Award (2018), Outstanding Student Leader (2017/2019), Third-Class Scholarship (2019), Outstanding Graduate (2020).
+- Master: National Scholarship (2022), Second-Class Scholarship (2021), Merit Student (2021/2023), Outstanding Graduate (2023).
+- Ph.D.: National Scholarship (2025), Second-Class Scholarship (2024), Outstanding TA (2024).
 
 Skills
 ======
 
-- **自然语言处理**：Python (LDA, Word2Vec), Gephi（Visualization）
-- **社会网络分析**：Gephi, CiteSpace, UCINET
-- **计量经济**：Stata, SPSS, OXmetrics
-- **扎根理论**：NVivo
+- **NLP**: Python (LDA, Word2Vec), Gephi (Visualization).
+- **QCA**: fsQCA.
+- **Network Analysis**: Gephi, CiteSpace, UCINET.
+- **Statistical Modeling**: Stata, SPSS, OXmetrics.
+- **Time Series Analysis**: OXmetrics, Eviews.
+- **Grounded Theory**: NVivo.
+- **Media Skills**: Audition, Final Cut Pro, InDesign.
