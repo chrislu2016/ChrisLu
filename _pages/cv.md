@@ -22,15 +22,16 @@ Last updated: 2026/03/15
 Education
 =========
 
-- **Tsinghua University**, China, Sep. 2023 - Present. Ph.D. in Journalism and Communication | GPA: 3.95/4.0 | Supervisor: Min Hang.
-- **Communication University of China**, China, Sep. 2020 - Jun. 2023. Master in Media Economics | GPA: 3.99/4.0 | Supervisor: Suhui Zheng.
-- **Beijing Foreign Studies University**, China, Sep. 2016 - Jun. 2020. Bachelor in International Economics & Trade + French Literature | GPA: 3.63/4.0.
+- **National University of Singapore**, Singapore, Feb. 2026 - Aug. 2026. Visiting Scholar | Supervisor: Dongtao Qi | East Asian Institute (EAI).
+- **Tsinghua University**, China, Sep. 2023 - Present. Ph.D. in Journalism and Communication | GPA: 3.95/4.0 | Supervisor: Min Hang | Center for Economic Communication Research | Visiting Scholar at National University of Singapore (2026).
+- **Communication University of China**, China, Sep. 2020 - Jun. 2023. Master in Media Economics | GPA: 3.99/4.0 | Supervisor: Suhui Zheng | Institute of Business Brand Strategy.
+- **Beijing Foreign Studies University**, China, Sep. 2016 - Jun. 2020. Bachelor in International Economics & Trade + French Literature | GPA: 3.63/4.0 | Exchange at Woosong University SolBridge (2017).
 
 Publications
 ============
 
 - Huang, P., & **Lu, H.** (2026). Digital feminist humor as a weapon: A humor and topic analysis of the Weibo posts of the Fat Cat event. *Feminist Media Studies, 0*(0). (SSCI, Q2)
-- Huang, P., **Lu, H.**, & Zhu, M. (2026). Negotiating fluidity: How China's “fourth-love” redoes gender within heteronormativity. *Sexualities, 0*(0). (SSCI, Q1)
+- Huang, P., **Lu, H.**, & Zhu, M. (2026). Negotiating fluidity: How China's “fourth-love” redoes gender within heteronormativity. *Sexualities, 0*(0). (SSCI, Q2)
 - Zhang, Z., & **Lu, H.** (2025). From human-machine competition to human-centeredness: The development path of human-AI collaboration and reflections on subjectivity. *Chinese Editorials*, (9), 82-87. (in Chinese, CSSCI)
   张自中 & **陆泓承**. (2025). 从人机竞争回归以人为本：人与AI协作的发展进路与主体性反思. 中国编辑, (09), 82-87.
 - **Lu, H.** (2025). Marginalization and decentralization: Power relations in "Tuwei" secondary creation culture. *Contemporary Youth Research*, (3), 34-48. (in Chinese, CSSCI)
@@ -51,17 +52,17 @@ Publications
 Conference Papers
 =================
 
-- **Lu, H.** (2026). Cognitive Offloading in the Age of Generative AI: Rethinking Critical Media Education for Combating Fake News Vulnerability. Paper presented at the International Association for Media and Communication Research (IAMCR) Annual Conference, Media Education Research Section (MER), Galway, Ireland.
-- **Lu, H.**, & Huang, P. (2026). Digital feminist humor as a weapon: A humor and topic analysis of the Weibo posts of the Fat Cat event. Oral presentation at the 76th ICA, Feminist Scholarship Division, Cape Town, South Africa.
-- **Lu, H.** (2025). The Role of News on the Confidence-Boosting Effect of Economic Policy Announcement: Empirical Quasi-natural Experiment Evidence of China. Oral presentation at the 111th NCA, Political Communication Division, Denver, United States.
-- **Lu, H.** (2025). Empowerment or Exploitation: A Network Ethnography on a Tuwei Culture Content Creators' Community in Douyin. Oral presentation at the 111th NCA, Ethnography Division, Denver, United States.
-- **Lu, H.** (2025). More than mere information transmission: How news influences confidence in economic policy communication? A quasi-natural experiment based on the Central Economic Work Conference. Oral presentation at the 2025 Tsinghua University Doctoral Student Academic Forum on Journalism and Communication & Young Scholars Forum, Beijing, China. (Excellent Paper Award)
-  **陆泓承**. (2025). 不止于信息传递：经济政策传播中新闻如何影响信心？——基于中央经济工作会议的准自然实验. 2025年清华大学新闻传播学博士生学术论坛·青年学者论坛，北京，中国（优秀论文奖）。
-- **Lu, H.**, Huang, P., & Xu, B. (2025). Research on integrated media brand building in the convergence transformation of traditional magazines and journals: The case of "Sanlian Zhongdu." Oral presentation at the 2025 Academic Annual Conference of the Media Economics and Management Committee of the Chinese Association for History of Journalism and Mass Communication, Changsha, China. (Excellent Paper Award)
-  **陆泓承**, 黄培智 & 徐博. (2025). 传统杂志期刊融合转型中的融媒品牌建设研究：以“三联·中读”为例. 2025年中国新闻史学会传媒经济与管理专业委员会学术年会，长沙，中国（优秀论文奖）。
-- Huang, P., & **Lu, H.** (2024). Exploring the gender attraction perceptions of the fourth queer heterosexual group in China. Oral presentation at the 74th ICA, LGBTQ+ Panel, Gold Coast, Australia.
-- **Lu, H.**, Huang, P., & Xu, B. (2024). Can National Financial Literacy Better Explain the Differences in Financial Media Systems Among Countries? Oral presentation at the 2024 Annual Conference of the China Association for the History of Journalism and Mass Communication, Hangzhou, China. (in Chinese)
-  **陆泓承**, 黄培智 & 徐博. (2024). 国民财经素养能否更好解释财经媒介体制的国别差异：欧洲19国财经媒介体制的比较研究. 2024年中国新闻史学会传媒经济与管理专业委员会学术年会，杭州，中国。
+- **Lu, H.** (2026). Cognitive Offloading in the Age of Generative AI: Rethinking Critical Media Education for Combating Fake News Vulnerability. Paper presented at the *International Association for Media and Communication Research (IAMCR) Annual Conference*, Media Education Research Section (MER), Galway, Ireland.
+- **Lu, H.**, & Huang, P. (2026). Digital feminist humor as a weapon: A humor and topic analysis of the Weibo posts of the Fat Cat event. Oral presentation at the *76th ICA*, Feminist Scholarship Division, Cape Town, South Africa.
+- **Lu, H.** (2025). The Role of News on the Confidence-Boosting Effect of Economic Policy Announcement: Empirical Quasi-natural Experiment Evidence of China. Oral presentation at the *111th NCA*, Political Communication Division, Denver, United States.
+- **Lu, H.** (2025). Empowerment or Exploitation: A Network Ethnography on a Tuwei Culture Content Creators' Community in Douyin. Oral presentation at the *111th NCA*, Ethnography Division, Denver, United States.
+- **Lu, H.** (2025). More than mere information transmission: How news influences confidence in economic policy communication? A quasi-natural experiment based on the Central Economic Work Conference. Oral presentation at the *2025 Tsinghua University Doctoral Student Academic Forum on Journalism and Communication & Young Scholars Forum*, Beijing, China. (Excellent Paper Award)
+  **陆泓承**. (2025). 不止于信息传递：经济政策传播中新闻如何影响信心？——基于中央经济工作会议的准自然实验. *2025年清华大学新闻传播学博士生学术论坛·青年学者论坛*，北京，中国（优秀论文奖）。
+- **Lu, H.**, Huang, P., & Xu, B. (2025). Research on integrated media brand building in the convergence transformation of traditional magazines and journals: The case of "Sanlian Zhongdu." Oral presentation at the *2025 Academic Annual Conference of the Media Economics and Management Committee of the Chinese Association for History of Journalism and Mass Communication*, Changsha, China. (Excellent Paper Award)
+  **陆泓承**, 黄培智 & 徐博. (2025). 传统杂志期刊融合转型中的融媒品牌建设研究：以“三联·中读”为例. *2025年中国新闻史学会传媒经济与管理专业委员会学术年会*，长沙，中国（优秀论文奖）。
+- Huang, P., & **Lu, H.** (2024). Exploring the gender attraction perceptions of the fourth queer heterosexual group in China. Oral presentation at the *74th ICA*, LGBTQ+ Panel, Gold Coast, Australia.
+- **Lu, H.**, Huang, P., & Xu, B. (2024). Can National Financial Literacy Better Explain the Differences in Financial Media Systems Among Countries? Oral presentation at the *2024 Annual Conference of the China Association for the History of Journalism and Mass Communication*, Hangzhou, China. (in Chinese)
+  **陆泓承**, 黄培智 & 徐博. (2024). 国民财经素养能否更好解释财经媒介体制的国别差异：欧洲19国财经媒介体制的比较研究. *2024年中国新闻史学会传媒经济与管理专业委员会学术年会*，杭州，中国。
 
 Working Papers
 ==============

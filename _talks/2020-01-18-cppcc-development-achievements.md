@@ -9,4 +9,8 @@ location: "Guilin, China"
 role: "Reporter"
 ---
 As a reporter, I covered the insights and perspectives of CPPCC members on the region's recent development achievements and their outlook for future growth. This segment highlights regional progress, focusing on the shared visions and goals expressed by the members.
-<iframe src="https://video.gltvs.com/glxw/2020/01/g011813.mp4" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
+<video controls preload="metadata" width="560" style="max-width: 100%; height: auto;">
+  <source src="https://video.gltvs.com/glxw/2020/01/g011813.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
