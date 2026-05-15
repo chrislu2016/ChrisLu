@@ -56,9 +56,12 @@ Conference Papers
 - **Lu, H.** (2025). The Role of News on the Confidence-Boosting Effect of Economic Policy Announcement: Empirical Quasi-natural Experiment Evidence of China. Oral presentation at the 111th NCA, Political Communication Division, Denver, United States.
 - **Lu, H.** (2025). Empowerment or Exploitation: A Network Ethnography on a Tuwei Culture Content Creators' Community in Douyin. Oral presentation at the 111th NCA, Ethnography Division, Denver, United States.
 - **Lu, H.** (2025). More than mere information transmission: How news influences confidence in economic policy communication? A quasi-natural experiment based on the Central Economic Work Conference. Oral presentation at the 2025 Tsinghua University Doctoral Student Academic Forum on Journalism and Communication & Young Scholars Forum, Beijing, China. (Excellent Paper Award)
+  **陆泓承**. (2025). 不止于信息传递：经济政策传播中新闻如何影响信心？——基于中央经济工作会议的准自然实验. 2025年清华大学新闻传播学博士生学术论坛·青年学者论坛，北京，中国（优秀论文奖）。
 - **Lu, H.**, Huang, P., & Xu, B. (2025). Research on integrated media brand building in the convergence transformation of traditional magazines and journals: The case of "Sanlian Zhongdu." Oral presentation at the 2025 Academic Annual Conference of the Media Economics and Management Committee of the Chinese Association for History of Journalism and Mass Communication, Changsha, China. (Excellent Paper Award)
+  **陆泓承**, 黄培智 & 徐博. (2025). 传统杂志期刊融合转型中的融媒品牌建设研究：以“三联·中读”为例. 2025年中国新闻史学会传媒经济与管理专业委员会学术年会，长沙，中国（优秀论文奖）。
 - Huang, P., & **Lu, H.** (2024). Exploring the gender attraction perceptions of the fourth queer heterosexual group in China. Oral presentation at the 74th ICA, LGBTQ+ Panel, Gold Coast, Australia.
 - **Lu, H.**, Huang, P., & Xu, B. (2024). Can National Financial Literacy Better Explain the Differences in Financial Media Systems Among Countries? Oral presentation at the 2024 Annual Conference of the China Association for the History of Journalism and Mass Communication, Hangzhou, China. (in Chinese)
+  **陆泓承**, 黄培智 & 徐博. (2024). 国民财经素养能否更好解释财经媒介体制的国别差异：欧洲19国财经媒介体制的比较研究. 2024年中国新闻史学会传媒经济与管理专业委员会学术年会，杭州，中国。
 
 Working Papers
 ==============
