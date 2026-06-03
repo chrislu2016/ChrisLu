@@ -52,6 +52,10 @@ Conference Presentations
 
 - **Lu, H.** (2026). Cognitive Offloading in the Age of Generative AI: Rethinking Critical Media Education for Combating Fake News Vulnerability. Paper presented at the *IAMCR Annual Conference*, Galway, Ireland.
 - **Lu, H.**, & Huang, P. (2026). Digital feminist humor as a weapon: A humor and topic analysis of the Weibo posts of the Fat Cat event. Oral presentation at the *76th ICA*, Cape Town, South Africa.
+- **Lu, H.** (2026). How AI Addiction Exacerbates Fake News Risks: An Online Experimental Study Based on Cognitive Offloading. Paper presented at the *AEJMC Annual Conference*, Communication Technology Division, New Orleans, LA.
+  Selected for the *CSGE Graduate Research Showcase Poster Session* (CTEC & CSGE).
+  **陆泓承**. (2026). How AI Addiction Exacerbates Fake News Risks: An Online Experimental Study Based on Cognitive Offloading. *AEJMC Annual Conference*, Communication Technology Division, New Orleans, LA.
+  入选 *CSGE Graduate Research Showcase Poster Session*（CTEC & CSGE）。
 - **Lu, H.** (2025). The Role of News on the Confidence-Boosting Effect of Economic Policy Announcement: Empirical Quasi-natural Experiment Evidence of China. Oral presentation at the *111th NCA*, Denver, United States.
 - **Lu, H.** (2025). Empowerment or Exploitation: A Network Ethnography on a Tuwei Culture Content Creators' Community in Douyin. Oral presentation at the *111th NCA*, Denver, United States.
 - **Lu, H.** (2025). More than mere information transmission: How news influences confidence in economic policy communication? A quasi-natural experiment based on the Central Economic Work Conference. Oral presentation at the *2025 Tsinghua University Doctoral Student Academic Forum on Journalism and Communication & Young Scholars Forum*, Beijing, China. (Excellent Paper Award)
